@@ -18,7 +18,9 @@ Hello World! 👋🏼
 
 ## 🛠 Skills
 
+### _**Web Development**_
 
+**![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/77f820e0b5661d79a5b8e3239c54968ad95661309e9327f9.png)**  **a simple markup system used to create hypertext documents that are portable from one platform to another**
 ## 🔗 Links
 
 
