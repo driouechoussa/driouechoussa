@@ -1,17 +1,4 @@
 
-
-    <table>
-    <tbody>
-        <tr>
-            <td>
-                <strong><img src="https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/77f820e0b5661d79a5b8e3239c54968ad95661309e9327f9.png" alt=""></strong>
-            </td>
-            <td>
-                &nbsp;<strong>a simple markup system used to create hypertext documents that are portable from one platform to another</strong>
-            </td>
-        </tr>
-    </tbody>
-</table>
 Hello World! 👋🏼 
 =================================
 
@@ -29,7 +16,8 @@ Hello World! 👋🏼
 
 ### _**Web Development**_
 
-|**![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/77f820e0b5661d79a5b8e3239c54968ad95661309e9327f9.png)** | **a simple markup system used to create hypertext documents that are portable from one platform to another**
+**![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/77f820e0b5661d79a5b8e3239c54968ad95661309e9327f9.png)** 
+**![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/5b6d1881dc01a673881d7a5cecdae6f5c0a2e6a63c190ecc.png)**
 ## 🔗 Links
 
 
