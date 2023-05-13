@@ -10,3 +10,4 @@ Oussama Driouech, a web developer and UI/UX designer with a little bit of knowle
 * 👨‍🎓   I'm a Student at 1337 Coding School benguerir
 * 📕   I'm Studying AI/ machine learnig 
 * ♟️   I'm Chess Player
+
