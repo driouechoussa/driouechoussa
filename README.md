@@ -1,14 +1,12 @@
 
-Hi there 👋🏼 My name is **Oussama Driouech**
+Hello World! 👋🏼 
 =================================
 
-a Web Developer and UI UX Designer
-------------------
+## 🚀 About Me
 
-I believe in continuous learning and I am constantly reading and keeping up-to-date on the latest technologies that can change the world and make it a better place. Experienced Ambassador at WomentechNetwork company, encouraging women to join the world of technology.
+Oussama Driouech, a web developer and UI/UX designer with a little bit of knowledge about mobile app development. For me, I can say that programming is my forte. because it makes me able to breakthrough something called imagination.
 
-* 🌍  I'm from Morocco 🇲🇦
-* 👨‍🎓  I'm a Student at 1337 Coding School benguerir
-* 📕  I'm Studying AI/ machine learnig 
+* 🌍   I'm from Morocco 🇲🇦
+* 👨‍🎓   I'm a Student at 1337 Coding School benguerir
+* 📕   I'm Studying AI/ machine learnig 
 * ♟️   I'm Chess Player
-
