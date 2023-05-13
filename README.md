@@ -14,9 +14,6 @@ Hello World! 👋🏼
 
 ## 🛠 Skills
 
-<a href="https://www.twitter.com/ElGhezzaz" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/ElGhezzaz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
-/></a>
 
 ## 🔗 Links
 
