@@ -1,7 +1,9 @@
 # Hi there 👋🏼 My Name is Oussama Driouech
 
-<!--
-**driouechoussa/driouechoussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+=================================
+
+a Web Developer and UI UX Designer
+------------------
 
 Here are some ideas to get you started:
 
