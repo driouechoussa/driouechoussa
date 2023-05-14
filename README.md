@@ -23,7 +23,6 @@ Hello World! 👋🏼
 ### _**Frameworks**_
 **![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/7d4d17ae838070bcf68ac34c63e3244f3b58589b608d01df.png)**
 
-<br/>
 ### _**Tools**_
 **![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/1ae6cc01fcee59a5c62cc1babf80587afd4e55c7fd4d4ca0.png)**
 **![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/713b2869c30fc23ac3deb21af362945c30ad1ec08981517b.png)**
