@@ -1,6 +1,6 @@
 <h1>Hi 👋, I'm Oussama</h1>
 
-- 🏠 I'm from Marrakech, Morocco🇲🇦
+- 🏠 I'm from Marrakech, Morocco 🇲🇦
 - ♟️ a stubborn opponent in chess 
 - 🔭 I’m currently working on [mc-player](https://github.com/driouechoussa/mc-player)
 
