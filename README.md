@@ -4,5 +4,5 @@
 - ♟️ a stubborn opponent in chess 
 - 🔧 I’m currently working on [mc-player](https://github.com/driouechoussa/mc-player)
 - 🎓 I’m currently learning **Python , C , Data Analyst**
-- 📩 How to reach me **thedriwsh@gmail.com**
+- 📩 you can reach me at **thedriwsh@gmail.com**
 
