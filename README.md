@@ -3,5 +3,5 @@
 - 🏠 I'm from Marrakech, Morocco 🇲🇦
 - ♟️ a stubborn opponent in chess 
 - 🎓 I’m currently learning **Java , C , blockchain**
-- 📩 you can reach me at **thedriwsh@gmail.com**
+- 📩 you can reach me at **odriouech@yahoo.com**
 
